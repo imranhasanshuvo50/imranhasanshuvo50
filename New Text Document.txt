@@ -1,0 +1,3 @@
+javac -cp ".;activation.jar;mail.jar" *.java
+
+java -cp ".;activation.jar;mail.jar" Start
